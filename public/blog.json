@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://www.euroschoolindia.com/wp-content/uploads/2023/05/rules-for-computer-labs.jpg",
+    "title": "Exploring JavaScript ES6 Features",
+    "author_name": "Steve Job",
+    "author_image": "https://cdn.profoto.com/cdn/053149e/contentassets/d39349344d004f9b8963df1551f24bf4/profoto-albert-watson-steve-jobs-pinned-image-original.jpg?width=1280&quality=75&format=jpg",
+    "posted_date": "2024-10-02",
+    "reading_time": 5,
+    "hashtags": ["#JavaScript", "#ES6", "#Programming"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://jankidevipublicschooldausa.in/wp-content/uploads/2021/04/jpsdausa13-1.jpg",
+    "title": "A Guide to CSS Grid Layout",
+    "author_name": "Elon Musk",
+    "author_image": "https://assets-us-01.kc-usercontent.com/5cb25086-82d2-4c89-94f0-8450813a0fd3/0c3fcefb-bc28-4af6-985e-0c3b499ae832/Elon_Musk_Royal_Society.jpg?fm=jpg&auto=format",
+    "posted_date": "2024-09-28",
+    "reading_time": 8,
+    "hashtags": ["#CSS", "#GridLayout", "#WebDesign"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://jankidevipublicschooldausa.in/wp-content/uploads/2021/04/jpsdausanew4.jpg",
+    "title": "Understanding RESTful APIs",
+    "author_name": "Larry Page",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
+    "posted_date": "2024-09-25",
+    "reading_time": 6,
+    "hashtags": ["#API", "#REST", "#WebDevelopment"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://www.euroschoolindia.com/wp-content/uploads/2023/05/rules-for-computer-labs.jpg",
+    "title": "Mastering Python for Data Science",
+    "author_name": "Jeff Bezoz",
+    "author_image": "https://m.media-amazon.com/images/M/MV5BNWI4ZTJiZmUtZGI5MC00NTk4LTk2OTYtNDU3NTJiM2QxNzM0XkEyXkFqcGc@._V1_.jpg",
+    "posted_date": "2024-09-20",
+    "reading_time": 8,
+    "hashtags": ["#Python", "#DataScience", "#MachineLearning"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Contemporary_Computer_Lab.jpg/1024px-Contemporary_Computer_Lab.jpg",
+    "title": "Getting Started with React",
+    "author_name": "Mark Zukerburg",
+    "author_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mark_Zuckerberg_at_the_37th_G8_Summit_in_Deauville_018_v1.jpg/200px-Mark_Zuckerberg_at_the_37th_G8_Summit_in_Deauville_018_v1.jpg",
+    "posted_date": "2024-09-15",
+    "reading_time": 7,
+    "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+  }
+]
